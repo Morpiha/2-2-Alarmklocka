@@ -1,0 +1,12 @@
+C:\Users\Morpiha\Documents\Visual Studio 2013\Projects\C-uppgifter\Vackarklocka\bin\Debug\Vackarklocka.exe.config
+C:\Users\Morpiha\Documents\Visual Studio 2013\Projects\C-uppgifter\Vackarklocka\obj\Debug\Vackarklocka.csprojResolveAssemblyReference.cache
+C:\Users\Morpiha\Documents\Visual Studio 2013\Projects\C-uppgifter\Vackarklocka\bin\Debug\Vackarklocka.exe
+C:\Users\Morpiha\Documents\Visual Studio 2013\Projects\C-uppgifter\Vackarklocka\bin\Debug\Vackarklocka.pdb
+C:\Users\Morpiha\Documents\Visual Studio 2013\Projects\C-uppgifter\Vackarklocka\obj\Debug\Vackarklocka.exe
+C:\Users\Morpiha\Documents\Visual Studio 2013\Projects\C-uppgifter\Vackarklocka\obj\Debug\Vackarklocka.pdb
+C:\Users\ml223pn\Downloads\Vackarklocka\Vackarklocka\bin\Debug\Vackarklocka.exe.config
+C:\Users\ml223pn\Downloads\Vackarklocka\Vackarklocka\obj\Debug\Vackarklocka.exe
+C:\Users\ml223pn\Downloads\Vackarklocka\Vackarklocka\obj\Debug\Vackarklocka.pdb
+C:\Users\ml223pn\Downloads\Vackarklocka\Vackarklocka\bin\Debug\Vackarklocka.exe
+C:\Users\ml223pn\Downloads\Vackarklocka\Vackarklocka\bin\Debug\Vackarklocka.pdb
+C:\Users\ml223pn\Downloads\Vackarklocka\Vackarklocka\obj\Debug\Vackarklocka.csprojResolveAssemblyReference.cache
